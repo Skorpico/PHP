@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1>PRÁCTICA DE PHP</h1>
+<h1>PRÁCTICA DE PHP !</h1>
 <hr>
 	<ul>
     	<li><a href="php/variables.php">Variables</a></li>
