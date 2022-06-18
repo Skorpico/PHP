@@ -10,8 +10,9 @@ Llenado de Matriz:
 	$fruta[1] = "Pera";
 	$fruta[2] = "Cambur";
 	$fruta[3] = "Cocos";
+	$FRUTA[4] = "Fresa";
 	
-		for($i = 0;$i <= 3;$i++)
+		for($i = 0;$i <= 4;$i++)
 		{
 			echo "<li>".$fruta[$i]."</li>";
 		}
