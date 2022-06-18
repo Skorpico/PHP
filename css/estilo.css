@@ -1,0 +1,42 @@
+/* CSS Document */
+
+.contenedorParrafo
+{
+	border:1px solid;
+	width:700px;
+	height:290px;
+	padding:0px;
+	border-radius:6px;
+}
+
+p
+{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:16px;
+	padding:3px;
+	margin-left:9px;
+}
+
+p::selection
+{
+	background:#FF0;
+}
+
+ul
+{
+	background-color:#FFF;
+	width:410px;
+	margin-left:4px;
+	
+}
+
+li
+{
+	line-heigth:30px;
+	padding:0px;
+}
+
+li:nth-child(even)
+{
+	background:#CCC;
+}
